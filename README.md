@@ -1,3 +1,8 @@
+# About
+
+This project is a flight booking application. Depending on what account you use to log in, you have the privelges to add/remove flights for different airlines, as well as add airports, airlines, and manage reservations. You can also log in as a customer to book from the available flights. 
+
+
 # If JavaFX isn't working in the project, try this in Eclipse:
 
 1) Right click the project folder
